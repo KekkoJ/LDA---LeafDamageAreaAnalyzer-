@@ -5,6 +5,7 @@ Leaf Damage Analyzer is an interactive Python tool for analyzing images of damag
 The program automatically calculates the damaged (“black”) area in cm², allows manual corrections using drawing or erasing tools, and generates a final report with the results of all analyzed images.
 
 **Main Features**
+
 Resize images while maintaining aspect ratio.
 Interactive selection of the four corners of the A4 sheet.
 Perspective transformation to correct distortion.
@@ -16,6 +17,7 @@ Save analyzed images.
 Generate a final text report with results.
 
 **Requirements**
+
 Python 3.8 or higher
 Python libraries:
 opencv-python
